@@ -6,6 +6,10 @@
 - Utiliza-se ContextAPI para armazenar dados do usuário e lidar com login/logoff do usuário.
 - Tela da home, que lista as cevejas da Punk API e possui opções de pesquisa pelo nome da cerveja.
 - Clique em uma cerveja da lista para visualizar mais detalhes.
+- Foi criado uma interface de login e cadastro de usuários com feedbacks para o usuário, como de campos vazios, e-mail e/ou senha incorretas, e-mail válido
+- Tendo uma listagem de dados da Punk API v2
+- Aplicação responsiva
+- Tendo uma busca por nomes de cervejas
 
 ________________________
 
