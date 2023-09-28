@@ -16,3 +16,7 @@ ________________________
 2.  Em seguida, para iniciar a aplicação: `npm run dev`;
 
 3. Para acessar use a url: `http://127.0.0.1:5173/`
+
+![login](https://github.com/bruno-corral/react-beer/assets/30707330/f1260424-fb7b-45a0-99b9-124c3814ee31)
+
+![listBeers](https://github.com/bruno-corral/react-beer/assets/30707330/c3c64e3a-d364-47f5-a97d-fef0f5513cca)
