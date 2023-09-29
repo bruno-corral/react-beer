@@ -48,7 +48,7 @@ export const SignUpUser = () => {
                 onChange={e => setName(e.target.value)} 
             />
             <input 
-                className="border border-gray-300 placeholder-gray-400 text-gray-700 px-3 py-2 w-full rounded-md m-4 outline-none" 
+                className="px-3 py-2 w-full rounded-md m-4 outline-none" 
                 type="email" 
                 placeholder="Type your E-mail" 
                 value={email} 
